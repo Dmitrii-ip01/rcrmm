@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-12-20 15:44:03">
+  <shop>
+    <name>Мой Магазин</name>
+    <categories>
+      <category id="35" parentId="28">
+        <name>test 1</name>
+      </category>
+      <category id="36" parentId="28">
+        <name>test 2</name>
+      </category>
+      <category id="37" parentId="34">
+        <name>test 5</name>
+      </category>
+      <category id="38" parentId="34">
+        <name>test 4</name>
+      </category>
+      <category id="39" parentId="34">
+        <name>test 6</name>
+      </category>
+      <category id="40" parentId="34">
+        <name>test 7</name>
+      </category>
+      <category id="41" parentId="34">
+        <name>test 8</name>
+      </category>
+      <category id="42" parentId="34">
+        <name>test 9</name>
+      </category>
+      <category id="43" parentId="34">
+        <name>test 11</name>
+      </category>
+      <category id="44" parentId="34">
+        <name>test 12</name>
+      </category>
+      <category id="45" parentId="18">
+        <name>Windows</name>
+      </category>
+      <category id="46" parentId="18">
+        <name>Macs</name>
+      </category>
+      <category id="47" parentId="34">
+        <name>test 15</name>
+      </category>
+      <category id="48" parentId="34">
+        <name>test 16</name>
+      </category>
+      <category id="49" parentId="34">
+        <name>test 17</name>
+      </category>
+      <category id="50" parentId="34">
+        <name>test 18</name>
+      </category>
+      <category id="51" parentId="34">
+        <name>test 19</name>
+      </category>
+      <category id="52" parentId="34">
+        <name>test 20</name>
+      </category>
+      <category id="53" parentId="34">
+        <name>test 21</name>
+      </category>
+      <category id="54" parentId="34">
+        <name>test 22</name>
+      </category>
+      <category id="55" parentId="34">
+        <name>test 23</name>
+      </category>
+      <category id="56" parentId="34">
+        <name>test 24</name>
+      </category>
+      <category id="58" parentId="52">
+        <name>test 25</name>
+      </category>
+      <category id="20">
+        <picture>http://retailcrm/image/cache/catalog/demo/compaq_presario-200x200.jpg</picture>
+        <name>Компьютеры</name>
+      </category>
+      <category id="26" parentId="20">
+        <name>PC</name>
+      </category>
+      <category id="28" parentId="25">
+        <name>Мониторы</name>
+      </category>
+      <category id="29" parentId="25">
+        <name>Мышки</name>
+      </category>
+      <category id="30" parentId="25">
+        <name>Принтеры</name>
+      </category>
+      <category id="31" parentId="25">
+        <name>Сканеры</name>
+      </category>
+      <category id="32" parentId="25">
+        <name>Веб-камеры</name>
+      </category>
+      <category id="18">
+        <picture>http://retailcrm/image/cache/catalog/demo/hp_2-200x200.jpg</picture>
+        <name>Ноутбуки</name>
+      </category>
+      <category id="27" parentId="20">
+        <name>Mac</name>
+      </category>
+      <category id="25">
+        <name>Компоненты</name>
+      </category>
+      <category id="57">
+        <name>Планшеты</name>
+      </category>
+      <category id="17">
+        <name>Програмное обеспечение</name>
+      </category>
+      <category id="24">
+        <name>Телефоны и PDA</name>
+      </category>
+      <category id="33">
+        <name>Камеры</name>
+      </category>
+      <category id="34">
+        <picture>http://retailcrm/image/cache/catalog/demo/ipod_touch_4-200x200.jpg</picture>
+        <name>MP3 Плееры</name>
+      </category>
+    </categories>
+    <offers>
+      <offer id="50" productId="50" quantity="215">
+        <productActivity>Y</productActivity>
+        <categoryId>18</categoryId>
+        <categoryId>24</categoryId>
+        <categoryId>25</categoryId>
+        <categoryId>34</categoryId>
+        <productName>Название товара</productName>
+        <name>Название товара</name>
+        <price>1233</price>
+        <vendor>Apple</vendor>
+        <dimensions>10.000/10.000/10.000</dimensions>
+        <picture>http://retailcrm/image/cache/catalog/demo/apple_logo-200x200.jpg</picture>
+        <pictureTablet>http://retailcrm/image/cache/catalog/demo/apple_logo_table-200x200.jpg</pictureTablet>
+        <pictureMobile>http://retailcrm/image/cache/catalog/demo/apple_logo_mobile-200x200.jpg</pictureMobile>
+        <url>http://retailcrm/index.php?route=product/product&amp;product_id=50</url>
+        <param code="article" name="Артикул">article</param>
+        <param code="weight" name="Вес">10</param>
+      </offer>
+      <offer id="51" productId="51" quantity="0">
+        <productActivity>Y</productActivity>
+        <categoryId>34</categoryId>
+        <productName>новый товар</productName>
+        <name>новый товар</name>
+        <price>1233</price>
+        <vendor>Apple</vendor>
+        <picture>http://retailcrm/image/cache/catalog/demo/canon_eos_5d_2-200x200.jpg</picture>
+        <url>http://retailcrm/index.php?route=product/product&amp;product_id=51</url>
+        <param code="weight" name="Вес">0</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
